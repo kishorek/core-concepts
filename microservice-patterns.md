@@ -1,5 +1,3 @@
-Okay, here are explanations for several common microservice patterns, formatted in Markdown and with a focus on crispness.
-
 ---
 
 ### API Gateway Pattern
